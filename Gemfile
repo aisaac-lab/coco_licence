@@ -1,7 +1,9 @@
 source "https://rubygems.org"
-gem "capybara"
-gem "nokogiri"
 
+gem "capybara"
 gem "selenium-webdriver"
+gem "poltergeist"
+
+gem "nokogiri"
 
 gem "pry"
